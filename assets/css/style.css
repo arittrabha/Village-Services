@@ -221,10 +221,12 @@ h1{
 }
 
 .amit{
-  padding: 80px 10px 10px 30px;
+  padding: 80px 60px 10px 30px;
   position: relative;
   top: 50px;
   display: inline-block;
+  border-radius: 50%;
+
 }
 
 
